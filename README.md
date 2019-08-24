@@ -11,3 +11,4 @@ A blockchain implementation in Go, as described in these articles:
 7. [Network](https://jeiwan.cc/posts/building-blockchain-in-go-part-7/)
 
 Commit from Working copy
+Change user test
